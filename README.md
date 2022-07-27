@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I´m currently doing a AWS Certifications, and search for new projects as a Software Enginner.
+- I love javascript and typescript 
+- I’m looking to collaborate on some data scienc project
+- Let have a chess match.
+
+
 <!--
 **issnoe/issnoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
