@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I´m currently doing a AWS Certifications, and search for new projects as a Software Enginner.
 - I love javascript and typescript 
+- .Net C# , React
 - I’m looking to collaborate on some data scienc project
 - Let have a chess match.
 
